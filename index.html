@@ -1,9 +1,136 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
+    <title>Sidiney Matheus | Portfólio</title>
+    <link rel="stylesheet" href="style.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+    />
   </head>
-  <body></body>
+  <body class="dark-theme">
+    <header>
+      <nav class="container">
+        <div class="logo">&lt;Sidiney /&gt;</div>
+        <ul class="nav-links">
+          <li><a href="#home" data-pt="INÍCIO" data-en="HOME">INÍCIO</a></li>
+          <li>
+            <a href="#services" data-pt="SERVIÇOS" data-en="SERVICES"
+              >SERVIÇOS</a
+            >
+          </li>
+          <li>
+            <a href="#resume" data-pt="CURRÍCULO" data-en="RESUME">CURRÍCULO</a>
+          </li>
+          <li>
+            <a href="#contact" data-pt="CONTATO" data-en="CONTACT">CONTATO</a>
+          </li>
+        </ul>
+        <div class="nav-controls">
+          <button id="theme-btn" class="control-icon">
+            <i class="fas fa-moon"></i>
+          </button>
+          <div class="lang-switcher">
+            <button id="lang-btn-pt" class="lang-opt">PT</button>
+            <button id="lang-btn-en" class="lang-opt active">EN</button>
+          </div>
+        </div>
+      </nav>
+    </header>
+
+    <main>
+      <section id="home" class="hero container">
+        <div class="hero-info">
+          <span class="badge">SOFTWARE DEVELOPER</span>
+          <h1 id="hero-title">
+            Olá, eu sou <br /><span class="highlight">Sidiney Matheus</span>
+          </h1>
+          <p id="hero-desc">
+            // Transformando requisitos complexos em soluções digitais de alto
+            impacto.
+          </p>
+          <div class="hero-actions">
+            <button class="btn-download">
+              DOWNLOAD CV <i class="fas fa-download"></i>
+            </button>
+            <div class="social-links">
+              <a href="#" class="social-icon"
+                ><i class="fab fa-linkedin-in"></i
+              ></a>
+              <a href="#" class="social-icon"><i class="fab fa-github"></i></a>
+            </div>
+          </div>
+        </div>
+        <div class="hero-visual">
+          <div class="photo-frame">
+            <img src="1738362011746.jpg" alt="Sidiney" />
+          </div>
+        </div>
+      </section>
+
+      <section id="services" class="services container">
+        <h2 class="section-title">
+          Meus <span class="highlight">Serviços</span>
+        </h2>
+        <div class="services-grid">
+          <div class="service-card">
+            <i class="fab fa-react service-icon"></i>
+            <h3>Front-End</h3>
+            <p>Interfaces responsivas com React.js e Tailwind CSS.</p>
+          </div>
+          <div class="service-card">
+            <i class="fab fa-node-js service-icon"></i>
+            <h3>Back-End</h3>
+            <p>APIs seguras e escaláveis com Node.js e bancos de dados.</p>
+          </div>
+          <div class="service-card">
+            <i class="fas fa-mobile-alt service-icon"></i>
+            <h3>Mobile</h3>
+            <p>Desenvolvimento de apps nativos com React Native.</p>
+          </div>
+        </div>
+      </section>
+
+      <section id="resume" class="resume container">
+        <h2 class="section-title">
+          Meu <span class="highlight">Currículo</span>
+        </h2>
+        <div class="resume-wrapper">
+          <div class="resume-nav">
+            <button class="resume-tab active">Sobre Mim</button>
+            <button class="resume-tab">Experiência</button>
+            <button class="resume-tab">Habilidades</button>
+          </div>
+          <div class="resume-content">
+            <div class="resume-box">
+              <h3 class="highlight">Minha História</h3>
+              <p>
+                Especializado em tecnologias modernas, criando interfaces e
+                aplicações web escaláveis.
+              </p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section id="contact" class="contact container">
+        <div class="contact-wrapper">
+          <div class="contact-text">
+            <h2>Let's <span class="highlight">Talk?</span></h2>
+            <p>Estou aberto a novos projetos.</p>
+          </div>
+          <form class="contact-form">
+            <input type="text" placeholder="Nome" />
+            <input type="email" placeholder="E-mail" />
+            <textarea placeholder="Mensagem" rows="5"></textarea>
+            <button type="submit" class="btn-send">ENVIAR MENSAGEM</button>
+          </form>
+        </div>
+      </section>
+    </main>
+
+    <script src="script.js"></script>
+  </body>
 </html>
