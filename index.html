@@ -33,8 +33,8 @@
             <i class="fas fa-moon"></i>
           </button>
           <div class="lang-switcher">
-            <button id="lang-btn-pt" class="lang-opt">PT</button>
-            <button id="lang-btn-en" class="lang-opt active">EN</button>
+            <button id="lang-btn-pt" class="lang-opt active">PT</button>
+            <button id="lang-btn-en" class="lang-opt">EN</button>
           </div>
         </div>
       </nav>
@@ -45,21 +45,31 @@
         <div class="hero-info">
           <span class="badge">SOFTWARE DEVELOPER</span>
           <h1 id="hero-title">
-            Olá, eu sou <br /><span class="highlight">Sidiney Matheus</span>
+            <span data-pt="Olá, eu sou" data-en="Hi, I am">Olá, eu sou</span
+            ><br />
+            <span class="highlight">Sidiney Matheus</span>
           </h1>
-          <p id="hero-desc">
-            // Transformando requisitos complexos em soluções digitais de alto
-            impacto.
+          <p
+            id="hero-desc"
+            data-pt="// Transformando requisitos complexos em soluções digitais."
+            data-en="// Turning complex requirements into digital solutions."
+          >
+            // Transformando requisitos complexos em soluções digitais.
           </p>
           <div class="hero-actions">
             <button class="btn-download">
-              DOWNLOAD CV <i class="fas fa-download"></i>
+              <span data-pt="DOWNLOAD CV" data-en="DOWNLOAD CV"
+                >DOWNLOAD CV</span
+              >
+              <i class="fas fa-download"></i>
             </button>
             <div class="social-links">
-              <a href="#" class="social-icon"
+              <a href="#" target="_blank" class="social-icon"
                 ><i class="fab fa-linkedin-in"></i
               ></a>
-              <a href="#" class="social-icon"><i class="fab fa-github"></i></a>
+              <a href="#" target="_blank" class="social-icon"
+                ><i class="fab fa-github"></i
+              ></a>
             </div>
           </div>
         </div>
@@ -72,44 +82,86 @@
 
       <section id="services" class="services container">
         <h2 class="section-title">
-          Meus <span class="highlight">Serviços</span>
+          <span data-pt="Meus" data-en="My">Meus</span>
+          <span class="highlight" data-pt="Serviços" data-en="Services"
+            >Serviços</span
+          >
         </h2>
         <div class="services-grid">
           <div class="service-card">
             <i class="fab fa-react service-icon"></i>
             <h3>Front-End</h3>
-            <p>Interfaces responsivas com React.js e Tailwind CSS.</p>
+            <p
+              data-pt="Interfaces responsivas com React.js e Tailwind CSS."
+              data-en="Responsive interfaces with React.js and Tailwind CSS."
+            >
+              Interfaces responsivas com React.js e Tailwind CSS.
+            </p>
           </div>
           <div class="service-card">
             <i class="fab fa-node-js service-icon"></i>
             <h3>Back-End</h3>
-            <p>APIs seguras e escaláveis com Node.js e bancos de dados.</p>
-          </div>
-          <div class="service-card">
-            <i class="fas fa-mobile-alt service-icon"></i>
-            <h3>Mobile</h3>
-            <p>Desenvolvimento de apps nativos com React Native.</p>
+            <p
+              data-pt="APIs seguras e escaláveis com Node.js."
+              data-en="Secure and scalable APIs with Node.js."
+            >
+              APIs seguras e escaláveis com Node.js.
+            </p>
           </div>
         </div>
       </section>
 
       <section id="resume" class="resume container">
         <h2 class="section-title">
-          Meu <span class="highlight">Currículo</span>
+          <span data-pt="Meu" data-en="My">Meu</span>
+          <span class="highlight" data-pt="Currículo" data-en="Resume"
+            >Currículo</span
+          >
         </h2>
         <div class="resume-wrapper">
           <div class="resume-nav">
-            <button class="resume-tab active">Sobre Mim</button>
-            <button class="resume-tab">Experiência</button>
-            <button class="resume-tab">Habilidades</button>
+            <button
+              class="resume-tab active"
+              data-pt="Sobre Mim"
+              data-en="About Me"
+            >
+              Sobre Mim
+            </button>
           </div>
           <div class="resume-content">
             <div class="resume-box">
-              <h3 class="highlight">Minha História</h3>
-              <p>
-                Especializado em tecnologias modernas, criando interfaces e
-                aplicações web escaláveis.
+              <h3 class="highlight" data-pt="Minha História" data-en="My Story">
+                Minha História
+              </h3>
+              <p
+                data-pt="Especializado em tecnologias modernas, criando aplicações escaláveis."
+                data-en="Specialized in modern technologies, creating scalable applications."
+              >
+                Especializado em tecnologias modernas, criando aplicações
+                escaláveis.
               </p>
+
+              <hr
+                style="
+                  margin: 20px 0;
+                  border: 0;
+                  border-top: 1px solid rgba(150, 150, 150, 0.1);
+                "
+              />
+
+              <h3 class="highlight" data-pt="Experiência" data-en="Experience">
+                Experiência
+              </h3>
+              <div class="exp-item">
+                <h4 style="color: var(--secondary)">Freelancer Developer</h4>
+                <p><small>2023 - Presente</small></p>
+                <p
+                  data-pt="Foco em React, Node.js e soluções web."
+                  data-en="Focus on React, Node.js and web solutions."
+                >
+                  Foco em React, Node.js e soluções web.
+                </p>
+              </div>
             </div>
           </div>
         </div>
@@ -118,14 +170,28 @@
       <section id="contact" class="contact container">
         <div class="contact-wrapper">
           <div class="contact-text">
-            <h2>Let's <span class="highlight">Talk?</span></h2>
-            <p>Estou aberto a novos projetos.</p>
+            <h2 data-pt="Vamos Conversar?" data-en="Let's Talk?">
+              Let's <span class="highlight">Talk?</span>
+            </h2>
+            <p
+              data-pt="Estou aberto a novos projetos."
+              data-en="I am open to new projects."
+            >
+              Estou aberto a novos projetos.
+            </p>
           </div>
           <form class="contact-form">
             <input type="text" placeholder="Nome" />
             <input type="email" placeholder="E-mail" />
             <textarea placeholder="Mensagem" rows="5"></textarea>
-            <button type="submit" class="btn-send">ENVIAR MENSAGEM</button>
+            <button
+              type="submit"
+              class="btn-send"
+              data-pt="ENVIAR MENSAGEM"
+              data-en="SEND MESSAGE"
+            >
+              ENVIAR MENSAGEM
+            </button>
           </form>
         </div>
       </section>
