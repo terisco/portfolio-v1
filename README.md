@@ -31,7 +31,8 @@ Uma interface moderna para uma cafeteria artesanal com um chatbot inteligente in
 
 - **Techs:** HTML, CSS, JavaScript e integração com IA.
 - **Preview:**
-  <img src="LINK_DA_SUA_FOTO_DA_CAFETERIA" width="100%" alt="Preview Café Aroma">
+  <img src="<img width="1920" height="1080" alt="Captura de tela 2026-01-28 163921" src="https://github.com/user-attachments/assets/50fdf9fb-fec2-4af9-b9a0-ba234bc058a1" />
+" width="100%" alt="Preview Café Aroma">
 
 ### ⚙️ CRUD de Usuários - Node.js
 
@@ -39,7 +40,8 @@ Sistema completo de gestão de usuários com banco de dados relacional.
 
 - **Techs:** Node.js, Express, Sequelize e MySQL/MariaDB.
 - **Preview:**
-  <img src="LINK_DA_SUA_FOTO_DO_CRUD" width="100%" alt="Preview CRUD Node">
+  <img src="<img width="1056" height="722" alt="Captura de tela 2026-01-28 164333" src="https://github.com/user-attachments/assets/235ff74e-d46b-46f7-b302-657bd465d642" />
+" width="100%" alt="Preview CRUD Node">
 
 ### 🍽 Sabor Express - Gerenciador de Restaurantes
 
@@ -47,7 +49,8 @@ Aplicação CLI (linha de comando) desenvolvida para gerenciar fluxos de restaur
 
 - **Techs:** Python (Listas, Dicionários e Manipulação de Dados).
 - **Preview:**
-  <img src="LINK_DA_SUA_FOTO_DO_SABOR_EXPRESS" width="100%" alt="Preview Sabor Express">
+  <img src="<img width="1493" height="941" alt="Captura de tela 2026-01-28 164714" src="https://github.com/user-attachments/assets/0910e9da-9963-4f74-9a64-03df3fe21b8c" />
+" width="100%" alt="Preview Sabor Express">
 
 ### 🔢 Calculadora Pro - Java
 
@@ -55,7 +58,8 @@ Interface gráfica funcional simulando uma calculadora real.
 
 - **Techs:** Java (Swing/AWT) e ActionListeners.
 - **Preview:**
-  <img src="LINK_DA_SUA_FOTO_DA_CALCULADORA" width="60%" alt="Preview Calculadora">
+  <img src="<img width="1447" height="852" alt="Captura de tela 2026-01-28 164904" src="https://github.com/user-attachments/assets/7154aca3-48d2-436f-a546-2b149f92e6e6" />
+" width="60%" alt="Preview Calculadora">
 
 ---
 
