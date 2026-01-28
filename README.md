@@ -1,45 +1,71 @@
-# Hi there, I'm [Sidiney]! 👋
+# Hi there, I'm Sidiney Matheus! 👋
 
 ## 🚀 About Me
 
-I am a passionate Full-Stack Developer currently focused on building web applications and exploring the world of software development. I enjoy solving problems and turning ideas into functional, clean code.
+I am a passionate **Software Engineer** focused on building full-stack web applications. I enjoy solving complex problems and turning ideas into functional, clean, and efficient code.
 
 - 🌍 Based in Brazil
-- 🎓 Currently learning **Java** to expand my backend skills.
-- ⚡ Fun fact: I love exploring new technologies and building projects that make a difference.
+- 🎓 Currently deepening my skills in **Java (Spring Boot)** and **Backend Architecture**.
+- ⚡ Fun fact: I love exploring how technology can optimize daily tasks, from coffee to complex CRUDs.
 
 ---
 
 ## 🛠 Tech Stack
 
-### Frontend
+### Frontend & Design
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 
-### Backend & Scripting
+### Backend & Database
 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=terisco&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=terisco&layout=compact&langs_count=7&theme=dracula"/>
+</p>
 
 ---
 
 ## 📌 Featured Projects
 
-### [Project Name 1]
+### ☕ [Café Aroma - Landing Page com IA](https://github.com/terisco/cafeteria)
 
-Description of the project. Mention the tech stack used (e.g., "Built with Next.js and Node.js").
+Uma interface moderna e responsiva para uma cafeteria artesanal, projetada com foco em UI/UX e interação.
 
-- [Live Demo](URL_DO_SITE) | [Source Code](URL_DO_REPO)
+- **Destaque:** Integração de uma IA para simular um chatbot ("Maria Cafeína"), oferecendo atendimento e sugestões personalizadas aos clientes.
+- **Techs:** HTML5, CSS3, JavaScript.
 
-### [Project Name 2]
+### ⚙️ [CRUD de Usuários com Node.js](https://github.com/terisco/crud-node)
 
-A brief sentence about what this project does and why it's cool.
+Sistema completo de Cadastro, Leitura, Atualização e Exclusão (CRUD) de usuários, desenvolvido em Node.js com o framework Express.
 
-- [Source Code](URL_DO_REPO)
+- **Destaque:** Utilização do Sequelize como ORM (Object-Relational Mapper) para interagir com MySQL/MariaDB, demonstrando uma estrutura de backend web com validações de formulário e gerenciamento de sessão.
+- **Techs:** Node.js, Express, Sequelize (ORM), MySQL/MariaDB.
+
+### 🍽 [Gerenciador de Restaurantes (Console App - Python)](https://github.com/terisco/restaurante_back_and)
+
+Projeto de linha de comando (CLI) em Python para gerenciamento básico de restaurantes.
+
+- **Destaque:** Foco na prática de lógica de programação e manipulação eficiente de estruturas de dados (listas e dicionários) para operações CRUD.
+- **Techs:** Python.
+
+### 🔢 [Calculadora em Java](https://github.com/terisco/calculadora-java)
+
+Calculadora funcional desenvolvida com interface gráfica (Swing/AWT), demonstrando princípios de UI e lógica de cálculo.
+
+- **Techs:** Java (JDK 17).
+- **Destaque:** Implementação de ouvintes de eventos (ActionListeners) e lógica matemática para diversas operações.
 
 ---
 
