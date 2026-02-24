@@ -31,7 +31,12 @@ Uma interface moderna para uma cafeteria artesanal com um chatbot inteligente ("
 
 - **Techs:** HTML5, CSS3, JavaScript e IA integrada.
 - **Preview:**
+<<<<<<< HEAD
   ![Café Aroma](https://storage.googleapis.com/generate-v1-files/image_79e6c1.jpg)
+=======
+  <img src="<img width="1920" height="1080" alt="Captura de tela 2026-01-28 163921" src="https://github.com/user-attachments/assets/50fdf9fb-fec2-4af9-b9a0-ba234bc058a1" />
+" width="100%" alt="Preview Café Aroma">
+>>>>>>> dfc53c1741001b6dc18e97dbdaf3fb92d903a1cd
 
 ### ⚙️ CRUD de Usuários - Node.js
 
@@ -39,7 +44,12 @@ Sistema completo de Cadastro, Leitura, Atualização e Exclusão (CRUD) utilizan
 
 - **Techs:** Node.js, Express, Sequelize (ORM) e MySQL/MariaDB.
 - **Preview:**
+<<<<<<< HEAD
   ![CRUD Node](https://storage.googleapis.com/generate-v1-files/image_79dc18.jpg)
+=======
+  <img src="<img width="1056" height="722" alt="Captura de tela 2026-01-28 164333" src="https://github.com/user-attachments/assets/235ff74e-d46b-46f7-b302-657bd465d642" />
+" width="100%" alt="Preview CRUD Node">
+>>>>>>> dfc53c1741001b6dc18e97dbdaf3fb92d903a1cd
 
 ### 🍽 Sabor Express - Gerenciador de Restaurantes
 
@@ -47,7 +57,12 @@ Aplicação de linha de comando (CLI) desenvolvida em Python, focada na prática
 
 - **Techs:** Python (Uso de dicionários e listas).
 - **Preview:**
+<<<<<<< HEAD
   ![Sabor Express](https://storage.googleapis.com/generate-v1-files/image_79d43f.png)
+=======
+  <img src="<img width="1493" height="941" alt="Captura de tela 2026-01-28 164714" src="https://github.com/user-attachments/assets/0910e9da-9963-4f74-9a64-03df3fe21b8c" />
+" width="100%" alt="Preview Sabor Express">
+>>>>>>> dfc53c1741001b6dc18e97dbdaf3fb92d903a1cd
 
 ### 🔢 Calculadora Pro - Java
 
@@ -55,7 +70,12 @@ Calculadora funcional com interface gráfica intuitiva desenvolvida com Swing/AW
 
 - **Techs:** Java (JDK 17).
 - **Preview:**
+<<<<<<< HEAD
   ![Calculadora Java](https://storage.googleapis.com/generate-v1-files/Captura%20de%20tela%202026-01-28%20164904.jpg)
+=======
+  <img src="<img width="1447" height="852" alt="Captura de tela 2026-01-28 164904" src="https://github.com/user-attachments/assets/7154aca3-48d2-436f-a546-2b149f92e6e6" />
+" width="60%" alt="Preview Calculadora">
+>>>>>>> dfc53c1741001b6dc18e97dbdaf3fb92d903a1cd
 
 ---
 
