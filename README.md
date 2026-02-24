@@ -27,35 +27,35 @@ I am a passionate **Software Engineer** focused on building full-stack web appli
 
 ### ☕ Café Aroma - Landing Page com IA
 
-Uma interface moderna para uma cafeteria artesanal com um chatbot inteligente integrado.
+Uma interface moderna para uma cafeteria artesanal com um chatbot inteligente ("Maria Cafeína") integrado para atendimento personalizado.
 
-- **Techs:** HTML, CSS, JavaScript e integração com IA.
+- **Techs:** HTML5, CSS3, JavaScript e IA integrada.
 - **Preview:**
-  <img src="LINK_DA_SUA_FOTO_DA_CAFETERIA" width="100%" alt="Preview Café Aroma">
+  ![Café Aroma](https://storage.googleapis.com/generate-v1-files/image_79e6c1.jpg)
 
 ### ⚙️ CRUD de Usuários - Node.js
 
-Sistema completo de gestão de usuários com banco de dados relacional.
+Sistema completo de Cadastro, Leitura, Atualização e Exclusão (CRUD) utilizando arquitetura MVC.
 
-- **Techs:** Node.js, Express, Sequelize e MySQL/MariaDB.
+- **Techs:** Node.js, Express, Sequelize (ORM) e MySQL/MariaDB.
 - **Preview:**
-  <img src="LINK_DA_SUA_FOTO_DO_CRUD" width="100%" alt="Preview CRUD Node">
+  ![CRUD Node](https://storage.googleapis.com/generate-v1-files/image_79dc18.jpg)
 
 ### 🍽 Sabor Express - Gerenciador de Restaurantes
 
-Aplicação CLI (linha de comando) desenvolvida para gerenciar fluxos de restaurantes.
+Aplicação de linha de comando (CLI) desenvolvida em Python, focada na prática de lógica de programação e na manipulação de estruturas de dados.
 
-- **Techs:** Python (Listas, Dicionários e Manipulação de Dados).
+- **Techs:** Python (Uso de dicionários e listas).
 - **Preview:**
-  <img src="LINK_DA_SUA_FOTO_DO_SABOR_EXPRESS" width="100%" alt="Preview Sabor Express">
+  ![Sabor Express](https://storage.googleapis.com/generate-v1-files/image_79d43f.png)
 
 ### 🔢 Calculadora Pro - Java
 
-Interface gráfica funcional simulando uma calculadora real.
+Calculadora funcional com interface gráfica intuitiva desenvolvida com Swing/AWT.
 
-- **Techs:** Java (Swing/AWT) e ActionListeners.
+- **Techs:** Java (JDK 17).
 - **Preview:**
-  <img src="LINK_DA_SUA_FOTO_DA_CALCULADORA" width="60%" alt="Preview Calculadora">
+  ![Calculadora Java](https://storage.googleapis.com/generate-v1-files/Captura%20de%20tela%202026-01-28%20164904.jpg)
 
 ---
 
@@ -72,3 +72,7 @@ Interface gráfica funcional simulando uma calculadora real.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sidiney-m-b8b60a235/)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/terisco)
+
+---
+
+⭐️ From [terisco](https://github.com/terisco)
